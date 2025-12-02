@@ -10,7 +10,7 @@ module.exports = {
   },
 
   // Имя листа в Google Sheets
-  SHEET_NAME: 'Sheet1',
+  SHEET_NAME: 'Задачи',
 
   // Паттерн для извлечения Task ID формата "IT-48"
   TASK_ID_PATTERN: /IT-(\d+)/i,
