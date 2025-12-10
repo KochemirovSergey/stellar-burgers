@@ -16,7 +16,7 @@ module.exports = {
   TASK_ID_PATTERN: /IT-(\d+)/i,
 
   // Google Sheets ID
-  SHEETS_ID: '1vB8-jTKgC51hDz2jxYkYPSQzF8XlSB6HzEEy3hRflG0',
+  SHEETS_ID: '1QHfh9U-FVuP0OYUh-0RuYDL7DN8BorKVQAgrWklokuA',
 
   // Максимальное количество попыток обновления
   MAX_RETRIES: 3,
